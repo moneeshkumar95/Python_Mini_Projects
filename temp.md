@@ -102,3 +102,6 @@ For swagger UI.
 http://127.0.0.1:8000/docs
 ```
 
+### Note: Pass the tenant & token in header for every endpoints ( login and register endpoints doesn't require token )
+
+
